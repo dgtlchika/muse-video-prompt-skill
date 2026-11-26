@@ -1,3 +1,5 @@
+> このフォークについて：デジタル地下室（note: sumaho_lab）が自前環境で使うためのフォークです。上流は masonmosen/muse-video-prompt-skill（https://github.com/masonmosen/muse-video-prompt-skill）です。
+
 # Muse Video Prompt Skill
 
 **A battle-tested workflow skill for Muse's built-in video generation (Muse Video): from prompt to final cut.**
